@@ -10,10 +10,6 @@ import 'components/cart_short_view.dart';
 import 'components/header.dart';
 import 'components/product_card.dart';
 
-// Today i will show you how to implement the animation
-// So starting project comes with the UI
-// Run the app
-
 class HomeScreen extends StatelessWidget {
   final controller = HomeController();
 
